@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#024265</color>
+    <color name="colorPrimaryDark">#024265</color>
+    <color name="colorAccent">#0274B2</color>
+    <color name="transparent">#00000000</color>
+    <color name="middlegrey">#A1A1A1</color>
+    <color name="yellow">#f6d126</color>
+    <color name="white">#ffffff</color>
+
+    <!-- game colors -->
+    <color name="cellWhite">#ffffff</color>
+    <color name="cellBlack">#0274B2</color>
+    <color name="cellSelect">#8aa5ce</color>
+    <color name="cellOption">#8aa5ce</color>
+
+    <color name="colorPrimarySecond">#e91e63</color>
+    <color name="colorPrimaryDarkSecond">#e91e63</color>
+    <color name="colorAccentSecond">#9c27b0</color>
+    <color name="transparentSecond">#00000000</color>
+    <color name="middlegreySecond">#A1A1A1</color>
+    <color name="yellowSecond">#f6d126</color>
+    <color name="whiteSecond">#ffffff</color>
+
+    <!-- game colors -->
+    <color name="cellWhiteSecond">#e91e63</color>
+    <color name="cellBlackSecond">#0274B2</color>
+    <color name="cellSelectSecond">#9c27b0</color>
+    <color name="cellOptionSecond">#8aa5ce</color>
+</resources>

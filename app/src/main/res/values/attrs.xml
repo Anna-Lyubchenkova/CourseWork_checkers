@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="transparent" format="reference|color" />
+    <attr name="lightblue" format="reference|color" />
+    <attr name="middleblue" format="reference|color" />
+
+    <attr name="middlegrey" format="reference|color" />
+    <attr name="yellow" format="reference|color" />
+    <attr name="white" format="reference|color" />
+    <attr name="black" format="reference|color" />
+    <attr name="cellWhite" format="reference|color" />
+    <attr name="cellBlack" format="reference|color" />
+    <attr name="cellSelect" format="reference|color" />
+    <attr name="cellOption" format="reference|color" />
+</resources>

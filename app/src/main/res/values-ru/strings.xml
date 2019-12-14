@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шашки</string>
+    <string name="OverwriteResumableGame">Сохраненная игра будет потеряна.</string>
+    <string name="OverwriteResumableGameTitle">Перезаписать игру?</string>
+    <string name="about">Об авторе</string>
+    <string name="action_about">Об авторе</string>
+    <string name="action_game">Шашки</string>
+    <string name="action_help">Помощь</string>
+    <string name="action_main">Главное меню</string>
+    <string name="blackWinDialogText">Черные выиграли!</string>
+    <string name="botWinDialogText">Вы проиграли компьютеру.</string>
+    <string name="botWinDialogTitle">Не в этот раз!</string>
+    <string name="cancel">отмена</string>
+    <string name="chose_opponent">Выберите оппонента:</string>
+    <string name="game_button_continue">Продолжить игру</string>
+    <string name="game_button_start">Новая игра</string>
+    <string name="game_current_player_ai">Компьютер ходит</string>
+    <string name="game_current_player_black">Черные ходят</string>
+    <string name="game_current_player_white">Белые ходят</string>
+    <string name="game_type_bot">Бот</string>
+    <string name="game_type_human">Человек</string>
+    <string name="help_game_rules_title">Правила</string>
+    <string name="menu_continue_game">Продолжить</string>
+    <string name="new_game">Новая игра</string>
+    <string name="no_resumable_game">Нет сохраненных игр. Начните новую игру.</string>
+    <string name="playerWinDialogText">Вы выиграли компьютер!</string>
+    <string name="playerWinDialogTitle">Поздравляем!</string>
+    <string name="sWinDialogBack">Назад в главное меню</string>
+    <string name="sWinDialogShowBoard">Показать доску</string>
+    <string name="setLevel">установить уровень</string>
+    <string name="title_activity_game">Шашки</string>
+    <string name="whiteWinDialogText">Белые выиграли!</string>
+    <string name="yes">да</string>
+    <string name="help_game_rules">Правила шашек на русском.</string>
+    <string name="about_text">Приложение сделала Любченкова Анна, группа 3530901/70203.</string>
+    <string name="action_score">Счёт</string>
+    <string name="enter_players_name_title">Введите имена игроков</string>
+    <string name="first_player">Первый игрок</string>
+    <string name="second_player">Второй игрок</string>
+</resources>
