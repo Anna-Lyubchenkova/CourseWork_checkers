@@ -20,7 +20,7 @@
     <string name="game_current_player_white">Белые ходят</string>
     <string name="game_type_bot">Бот</string>
     <string name="game_type_human">Человек</string>
-    <string name="help_game_rules_title">Правила</string>
+    <string name="help_game_rules_title">Правила Игры</string>
     <string name="menu_continue_game">Продолжить</string>
     <string name="new_game">Новая игра</string>
     <string name="no_resumable_game">Нет сохраненных игр. Начните новую игру.</string>
@@ -32,10 +32,10 @@
     <string name="title_activity_game">Шашки</string>
     <string name="whiteWinDialogText">Белые выиграли!</string>
     <string name="yes">да</string>
-    <string name="help_game_rules">Правила шашек на русском.</string>
     <string name="about_text">Приложение сделала Любченкова Анна, группа 3530901/70203.</string>
     <string name="action_score">Счёт</string>
     <string name="enter_players_name_title">Введите имена игроков</string>
     <string name="first_player">Первый игрок</string>
     <string name="second_player">Второй игрок</string>
+    <string name="help_game_rules">В шашки играют два соперника, находящиеся на противоположных сторонах игрового поля. У одного игрока есть черные шашки,у другого - белые. Игрок, у которого белые шашки начинает игру и должен походить, после чего оба игрока чередуются по очереди. Игрок не может перемещать шашку противника. Ход состоит из перемещения шашки по диагонали на соседний незанятый квадрат. Если соседний квадрат содержит шашку противника, а квадрат сразу за ним свободен, то шашка может быть захвачена (и удалена из игры), перепрыгнув через него.</string>
 </resources>

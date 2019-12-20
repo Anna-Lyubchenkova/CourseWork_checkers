@@ -29,3 +29,4 @@ public class App extends Application {
         return database;
     }
 }
+// приложение, с помощью которого мы обращаемся к базе данных.
